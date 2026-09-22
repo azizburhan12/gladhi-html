@@ -1,0 +1,13 @@
+    h1{
+        color: blue;
+    }
+
+    .highlight{
+        background-color: yellow;
+    }
+    .paragraph{ align-self: start;  
+            color: rgb(11, 101, 8);         
+        font-size: 16px;
+        line-height: 1.5;
+       
+    }
